@@ -1,0 +1,7 @@
+{ "scripts": {
+  "start" : "node ./meteo.js"
+},
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
